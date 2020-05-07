@@ -1,8 +1,8 @@
-# Django Project Boilerplate
+# Ecommerce Django Project
 
-This repository is a boilerplate Django project for quickly getting started.
+This repository is an Ecommerce Django project.
 
-[![alt text](https://github.com/justdjango/django_project_boilerplate/blob/master/thumbnail.png "Logo")](https://www.youtube.com/watch?v=GEogao-tUec)
+[![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyventurepad.com%2Fhow-to-choose-a-b2b-e-commerce-platform%2F&psig=AOvVaw0RsLY81qKGQrQ3jR9RkTz0&ust=1588939475380000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDpooLboekCFQAAAAAdAAAAABAD "Logo")]
 
 ## Getting started
 
